@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: '',
         twitter: '',
-        github: 'https://github.com/smusukula',
+        github: 'smusukula',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
